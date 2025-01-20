@@ -4,7 +4,7 @@ import c from '../assets/img/c6.png'
 
 export default function Section4() {
     return (
-        <div className=' md:flex md:justify-evenly'>
+        <div className='mb-20  md:flex md:justify-evenly'>
             {/* left img */}
             <div className='relative top-10'>
                 <img className='' src={c} alt="" />
